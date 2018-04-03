@@ -1,0 +1,48 @@
+body{
+    // background: url(../../images/st-background.jpg)top center;
+    // background-image: url(images/overlay.png), linear-gradient(45deg, #5f4d93 15%, #f90025 85%);
+}
+
+#header.alt .logo{
+
+    background: white;
+    border-radius: 1000px;
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    padding-top: 19px;
+    padding-left: 6px;
+    margin: 0 auto;
+
+}    
+
+
+.features li a{
+    text-decoration: none;
+    border-bottom:0;
+}
+
+.features li a span img{
+    max-width: 100%;
+}
+
+
+#main .spotlight .image{
+    border: 0;
+}
+
+.spotlight .image img{
+    border-radius: 0;
+}
+
+.part_contacts{
+    font-size: 21px;    
+}
+
+ul.breadcrumbs{
+
+}
+ul.breadcrumbs li{
+    display: inline;
+
+}
